@@ -1,0 +1,21 @@
+Documentation:
+https://rosea.gitbook.io/alpha-moodle-theme/
+
+Photos:
+  - Unsplash https://unsplash.com
+
+Scripts:
+  - Swiper https://swiperjs.com/
+
+Icons:
+  - https://iconic.app (Pro license)
+  - https://iconoir.com/ (Open Source)
+  - https://css.gg (Open Source)
+  - https://akveo.github.io/eva-icons/ (Open Source)
+
+Iconic Pro Icons
+Copyright (C) Iconic
+https://iconic.app
+Iconic Pro icons are copyrighted.
+Redistribution is not permitted. 
+Use in source and binary forms, with or without modification, is allowed if you own an Iconic Pro license.
